@@ -1,0 +1,11 @@
+{
+  "collaborators": [ "zrossman
+                      elewis" ],
+  "ec": false,
+  "notes": "please note that our version3 algorrithm sums the populations from
+  the southwest, not the northwest. We did this because it made more sense to
+  sum starting at position [0][0] in the grid, which corresponds to the
+  southwest corner.  ",
+  "version": "0.0.1",
+  "class": "CSCI062"
+}
